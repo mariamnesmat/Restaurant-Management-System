@@ -1,1 +1,2 @@
 # Restaurant-Management-System
+The system simplifies restaurant operations with a digital catalog, online orders, and delivery management. It maintains customer records, offers discounts, and identifies premium clients. The MySQL database is well-structured, ensuring efficient data management. The graphical user interface allows easy interaction for inserting, updating, and deleting records. The system enhances customer service, streamlines processes, and facilitates data-driven decision-making for restaurant management.
